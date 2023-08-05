@@ -1,5 +1,5 @@
-#Instruções para rodar o projeto laravel:
-    - Iniciar o container:  docker-compose up -d
+#Instruções para rodar o projeto laravel:\n
+    - Iniciar o container:  docker-compose up -d \n
     - Entrar dentro do container APP: docker-compose exec app bash
     - Baixar as dependências do composer: composer install
     - Criar as tabelas: php artisan migrate
